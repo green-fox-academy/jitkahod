@@ -1,0 +1,53 @@
+/* /*head*/
+body{
+    font-family: 'Jost', sans-serif;
+}
+
+img {
+    width:100%;
+}
+#I_odstavec {
+    padding-left: 280px;
+    padding-right: 480px;
+    color:rgb(160, 147, 147);
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+main {
+   
+    padding-left: 280px;
+    padding-right: 280px;
+}
+.motto{
+    margin-left: -30px;
+    padding: 0px;
+    background-color: rgb(75, 72, 72);
+    color: white;
+    font-family: "Times-New-Roman", Times,serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#motto-quote{
+    font-size: 80px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#motto-text{
+    margin-top: -50px;
+    font-size: 50px;
+    padding-top: 0px;
+    padding-bottom: 40px;
+    padding-left: 60px;
+    padding-right: 40px;
+}
+
+#sith{
+    margin-bottom: -50px;
+}
+
+#supreme{
+margin-top: -50px;
+}

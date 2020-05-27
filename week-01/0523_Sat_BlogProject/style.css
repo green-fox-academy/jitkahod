@@ -1,0 +1,55 @@
+#header {
+    width:100%;
+    background-color: rgb(94, 91, 91);
+    border:1px solid black
+}
+
+#theblog {
+    color: black;
+    padding-left: 150px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+/*Add new*/
+main {
+    padding-left: 150px;
+    padding-right: 15%;
+}
+
+#addnew {
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+#title {
+    margin-bottom: 5px;
+}
+
+#content {
+    font-weight: bold;
+}
+
+#submit {
+    margin-top: 5px;
+}
+
+/*Posts*/
+.post {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+    border:1px solid black
+}
+
+.post h1 {
+    font-weight: normal;
+    margin: 0px;
+    padding-left: 5px;
+    padding-right: 15px;
+}
+
+.post p {
+    margin: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
